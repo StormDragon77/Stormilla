@@ -1,2 +1,2 @@
-# ResourcePacks
+# Fixed Inconsistencies
 placeholder text
