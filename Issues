@@ -1,14 +1,11 @@
-#How to leave a good issue:
+How to leave a good issue:
 
 BUGS:
-Describe your bug in detail, include image of the bug if possible
-
-Specify what platform you are on (Java or bedrock)
-
-If nessessary, include game version and version of pack you are using. Any version of Fi that is not the latest is not supported. Check if your issue persists in the latest release.
+- Describe your bug in detail, include image of the bug if possible
+- Specify what platform you are on (Java or bedrock)
+- If nessessary, include game version and version of pack you are using. Any version of Fi that is not the latest is not supported. Check if your issue persists in the latest release.
 
 SUGGESTIONS:
-Your suggestion will be ignored if it strays too far from vanilla, is not an inconsistency or is impossible to add.
-
-When looking for inconsistencies, look for:
-Outdated Textures, Mismatched Textures, Texture Bugs, Illogical textures, Mixels (Mixed Pixel Resolutions), Inconsistent Uniformity (ex: textures of the same type having inconsistent shading)
+- Your suggestion will be ignored if it strays too far from vanilla, is not an inconsistency or is impossible to add.
+- When looking for inconsistencies, look for:
+    Outdated Textures, Mismatched Textures, Texture Bugs, Illogical textures, Mixels (Mixed Pixel Resolutions), Inconsistent Uniformity (ex: textures of the same type having inconsistent shading)
