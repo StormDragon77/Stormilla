@@ -1,2 +1,3 @@
 # Fixed Inconsistencies
-placeholder text
+Have a suggestion or found a bug?
+Create a new issue in Issues
