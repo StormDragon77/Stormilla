@@ -1,7 +1,8 @@
 How to leave a good issue:
 ------------------------------------
 BUGS:
-- Bugs can be missed textures and inconsistencies, texturing errors, unnecessary files within pack, typos in description and outdated preview images on PMC
+- Bugs can be:
+    Missed Textures and Inconsistencies, Texturing Errors, Unnecessary Files within Pack, Typos in Description and Outdated Preview Images on PMC
 - Describe your bug in detail, include image of the bug if possible
 - Specify what platform you are on (Java or bedrock)
 - If nessessary, include game version and version of pack you are using. Any version of Fi that is not the latest is not supported. Check if your issue persists in the latest release.
