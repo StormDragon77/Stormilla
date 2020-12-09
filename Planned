@@ -1,6 +1,5 @@
 A little preview into what's coming in the future (Please remember these are subject to change and are in no particular order in terms of priority)
 - White Iron golems with poppies
-- Furnace Animation
 - Redder crimson (Addon pack)
 - Fix mirroring doors
 - Update fire
@@ -9,27 +8,21 @@ A little preview into what's coming in the future (Please remember these are sub
 - Add wooden tool wood types and blackstone tools (Optifine)
 - 3D door windows
 - Add animation to light emitting blocks
-- Better soil for potted plants
 - Custom texture for debug stick
 - Fix pattern compression on banner shields
 - Better Sunflowers
 - Change wood color on shield, jukebox, noteblock, composter, painting back to one of the existing 8 wood types
 - HD title like on bedrock
 - Item sprites for: stonecutter, grindstone, anvil, composter, end rod, trapdoors, enchanting table, daylight sensor, lectern
-- Update comparator and repeater
-- Better item sprites for chains, 2 tall flowers, flower pot
+- Better item sprites for 2 tall flowers
 - Recolor saplings more like fully grown counterpart
 - Bottom texture for melon
-- Recolor iron items with new iron colors
-- Pixel consistency for everything possible (WIP) Missing: ghast, wither, entity shadow, signs, babies
-- Unnamed name tags have no text on texture, named have the text (OptiFine)
+- Pixel consistency for everything possible (WIP) Missing: wither, signs, babies, rabbits, cave spiders
 - Update enderman and ender dragon
 - Edit the way you hold lanterns in third person
-- Correct coloring of some dyes
 - Bedrock piston arms
 - Every ore having a unique shape
 - Update spawn egg texture, better spawn egg colors (OptiFine) [​This feature is delayed until further notice because custom spawn egg colors are currently not working in OptiFine]
-- Add 20w48a clock and compass textures and recolor them with this packs palettes
 - Fixed Inconsistencies for 1.17 snapshots (This will be a temporary addon pack that will be merged with Fi once 1.17 is released)
 - Give cauldrons a proper inside texture
 - Broken elytra entity (OptiFine)
