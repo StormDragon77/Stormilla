@@ -1,0 +1,191 @@
+Blocks:
+- All doors and trapdoors have proper side textures
+- Updated chests, now made of spruce wood
+- Signs given updated plank texture and smoother face to make text easier to read
+- Rails made shinier and powered is fully made of gold since it can't be crafted with iron
+- Updated bedrock to look smoother and remove harsh contrast
+- Haybale coloring changed to look more like modern wheat and lower band moved up
+- Fully grown wheat crop recolored to be less green, younger crops yellow colors edited
+- Beacon core turned into nether star and made shorter for centered texture
+- Dark Oak and spruce door hinges match knob color
+- Dark Oak Log's top texture now the same color as the side on stripped log, fixed old bark color
+- Iron bars colored with shiny rails colors and z-fighting issue fixed
+- Iron Ore made white but slightly oxidized like new copper ore
+- Observer top texture updated
+- Fixed top texture of gilded blackstone for consistency with normal blackstone
+- Smooth Stone given highlight since slabs have it
+- Ores coloring updated for diamond, iron, coal, redstone, gold, emerald, lapis lazuli
+- Lapis Lazuli Ore shading edited
+- Updated glass pane side colors
+- Removed green tint from stripped spruce and jungle logs
+- Soul Campfire has soul soil base instead of coal
+- Pistons and sticky pistons borders recolored to proper oak colors, cobblestone texture updated
+- Recolored gold blocks, bells and ores with new gold color palette
+- Pixel consistent tripwire hook
+- Bottom half of shulker and shulker box are darker to match dyed variants
+- Pumpkin stem recolored to brown, all pumpkin variants have proper bottom texture
+- Top of jack o lantern has a circle cut outline
+- Warped and crimson stem top given bedrock texture
+- Recolored leather part of crafting table to brown, given proper bottom texture
+- Recolored netherrack colors on top of crimson nylium to better match warped
+- Fixed inconsistent coloring of mycelium side compared to other dirt blocks
+- Fixed bottom texture of hopper
+- Updated diamond corners on enchantments table and clothe slight retexture
+- Brewing stand rod brighter and bottom desaturated
+- Updated bottom texture of cactus
+- Eye of ender on enderchest and portal frame made more round rather than diamond shaped
+- Highlights and/or shadows edited on birch, spruce and dark oak doors
+- Stonecutter rotation fixed, wood part recolored as spruce log
+- Stripped acacia side is less red
+- Added new bottom texture to furnaces, droppers and dispensers
+- Added new bottom texture to blast furnaces
+- Added new bottom texture to lecterns, updated oak planks texture on base
+- Shifted netherbricks (+variants) to line up with other brick blocks
+- Soul Lantern's frame matches style of normal lantern's
+- Torch flame given campfire colors, redstone torches are fully red
+- Backside of painting has updated planks texture
+- Fully grown cocoa bean's top and bottom texture made pixel consistent
+- Fixed potted cactus and bamboo top not rendering with top slab over them
+- Fixed the corner on the top and bottom of smokers
+- Fixed miscolored pixel on spruce planks
+- Fixed miscolored pixel on dirt + variants
+- Fixed mirrored lilypad block
+- Changed background of wither painting to soulsand valley
+
+Entities:
+- Creeper completly recolored to match updated textures
+- Zombified Piglins given torn up piglin clothing and piglin skin color
+- Spectral arrows now actually look like the item and are glowstone colored
+- Bats and vexes made more pixel consistent
+- Mooshrooms given pink patches to match brown mooshrooms and mooblooms
+- Gold armor recolored with new palette, is now slightly darker
+- Saddles on pigs, striders and ravagers are now brown to match color of horse saddles
+- Zombies given torn up, discolored clothing like husks and drowned
+- Blacked out zombie villager eyes to match normal zombies
+- Recolored cat eyes to be consistent with eachother
+- Ported bedrock's dragon fireball
+- Piglins and Brutes given white tusks like zombified piglins and gold coloring tweaked
+- Hoglins given white tusks, zoglins have hoglin skin color
+- Bottom part of blaze's rods fixed and small coloring tweaks
+- Farmer Villager's hat looks like haybale retexture
+- Netherite armor's color palette on leggings fixed
+- Chests on horses, donkeys, mules and llamas changed to zombie horse chest texture
+- Steve's clothing and arm shading updated, gave him his beard back
+- Alex's shirt edited and hair reshaded
+- Updated hands of zombie villager, illagers, steve, alex, drowned
+- Changed snow texture on snow golem and arms to torch stick texture
+- Changed blue fish on fisherman to salmon
+- Villager bottom of outfit fixed
+- Chainmail boots given bottom texture
+- Cow, mooshroom and brown mooshroom's white patch on nose recolored to proper patches color
+- Villager profession badges recolored
+- Fixed top and bottom of wither projectile
+- Fixed shoulder strap of librarian villager
+- Item Frame background made slightly darker
+- Changed stand on banner to stripped dark oak and string changed to lead colors
+- Fixed inconsistent highlight colors on diamond and gold armor
+- Guardian stray pixel fixed
+- Changed illusioner's texture to the one from dungeons
+
+Items:
+- Netherite armor items look more like the armor
+- Diamond tools recolored with diamond colors, are now less green
+- All gold items recolored with a little more orangey, consistent color palette
+- Recolored borders of all armor items
+- Boat oars match the color of the boat
+- Netherwart item updated
+- Blaze rod updated to look more like blaze's rod from entity
+- Item frame looks more like the block, sword updated
+- Painting item is longer, spruce frame and features the sunset painting
+- Bow string looks more like crossbow string
+- Leather made brown to match armor
+- Saddles made brown to match horse saddles
+- Banner patterns are now distinguishable from each other
+- Brown and Red mushrooms look more like giant versions
+- Gave helmets noseguards and darker inside
+- Sign items have consistent text, shading and have log textures on their posts
+- Bonemeal color changed to bone colors
+- Spectral arrow given glowstone color palette
+- Wheat item recolored to match wheat changes
+- Wheat seeds recolored more like real wheat seeds
+- Recolored egg to a more realistic brown
+- Iron Nugget texture updated to modern nugget texture
+- Door items match style of crimson and warped door items
+- Acacia sapling given proper bark colors
+- Recolored map to proper colors from map held in hand, moved text on map item
+- Clock recolored to modern gold colors and has new sky, sun and moon
+- Compass recolored to modern iron colors
+- Recolored trident item with entity colors
+- Blaze powder coloring updated to new blaze rod's
+- Edited iron tools coloring
+- Bottle o' Enchanting changed to splash potion since it's throwable
+- Brewing stand item looks more like block
+- Cookie changed to brown
+- Added straps onto turtle helmet item
+- Made the end crystal item more even
+- Pumpkin seeds shading edited
+- Melon seeds shading edited
+- Beetroot seeds edited
+- Changed rotation and positioning of shield item
+- Dried kelp is the same color as the kelp block
+- Made books consistent in shading
+- Music discs updated to pigstep's shading
+- Transparent lines between faces in some items fixed
+- Gave iron ingot and gold ingot consistent shading
+- Horse armor items recolored
+- Carrot on carrot on a stick looks more like a carrot
+- Lead made same color as entity
+- Soul Lantern item matches block change
+- Bell item recolored to proper block colors
+- String recolored with cobweb colors
+- Bone and diamond shadow slightly recolored
+- Totem's eyes edited
+- Fixed coloring of stick on iron and stone hoes
+- Tweaked apple coloring to match golden apple
+- Crossbow string tweak
+- Recolored one pixel on all swords
+- Slightly moved positioning of rabbit stew
+
+GUI:
+- Buttons that turn blue when hovered over now gain a white border like other GUI changes
+- Selection arrows made darker so highlight doesn't look the same as white border
+- Updated coloring of armor icons on HUD
+- Hearts on HUD given more detail, poison and gapple hearts recolored
+- Hunger icons recolored with hunger effect icon colors
+- Updated bubble icons in HUD
+- Changed backround behind player in inventory to coloring like other slots, includes entity shadow and top gradient (Also makes black skins, like mine, actually visible!)
+- Empty chestplate and boots icon updated
+- Empty helmet icon changed to helmet outline
+- Empty offhand icon changed to more shield-like shape
+- Updated hammer in anvil GUI
+- Critical attack indicator updated
+- Changed white boxes in recipe book to green
+- Spectator buttons updated
+- Stats icons updated
+- Toast tutorial icons updated
+- Lapis icon in enchanting interface updated
+- Options background given updated dirt
+- Fixed missing border in potion effects box
+- Fixed potion icons in brewing interface
+- Fixed inconsistent shading in brewing interface
+- Fixed transparent inner border in advancements interface
+- Fixed background color of armor icons in HUD
+- Fixed stray pixels on game mode switcher
+
+Misc:
+- Chests, ender chests, hoppers, composter and cauldron given better break particles
+- Gave stews proper eating particles so you don't eat the bowl
+- Pixel consistent beacon beam
+- Shields have proper break particles when broken
+- Updated bubble particle
+- Lava and flame particles are campfire colored
+- All blocks named: "Block of _____" renamed to "_____ Block"
+- "Zombified Piglins" renamed to "Zombie Piglins"
+- "Nether Wart Block" renamed to "Crimson Wart Block"
+- "Beetroot Soup" renamed to "Beetroot Stew"
+- Tweaked colors of haste, strength, weakness, bad omen, invisibility and slow falling effect icons
+
+Optifine:
+- Withered bones, rename a bone to "Withered Bone"
+- Golden Totem of Undying, rename a totem to "Golden Totem of Undying"
+
