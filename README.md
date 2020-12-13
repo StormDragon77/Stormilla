@@ -4,16 +4,22 @@ This github repository was created mainly so I can keep better track of suggesti
 
 You can suggest or report a bug by opening a new issue in Issues
 
-How to leave a good issue:
-------------------------------------
+Leaving an Issue:
+------------------------------
+- Don't mark priority on anything (Don't use low, normal or high tags). I will be deciding the level of priority myself.
+
+------------------------------
 BUGS:
+- Your bug will be marked invalid/wontfix if it cannot be reproduced, it isn't a problem relating to this pack or if it is intended
 - Bugs can be:
     Missed Textures and Inconsistencies, Texturing Errors, Unnecessary Files within Pack, Typos in Description and Outdated Preview Images on PMC
-- Describe your bug in detail, include image of the bug if possible
+- Describe your bug in detail, include image of the bug if possible and especially if a text description can't visualize the problem well enough
 - Specify what platform you are on (Java or bedrock)
-- If nessessary, include game version and version of pack you are using. Any version of Fi that is not the latest is not supported. Check if your issue persists in the latest release.
-------------------------------------
+- If nessessary, include game version and version of pack you are using.
+    - Any version of Fi that is not the latest is not supported. Check if your issue persists in the latest release.
+    - Old versions of Minecraft and Optifine are not supported so check if the bug is present in the latest release.
+------------------------------
 SUGGESTIONS:
-- Your suggestion will be ignored if it strays too far from vanilla, is not an inconsistency or is impossible to add.
+- Your suggestion will be marked invalid/wontfix if it strays too far from vanilla, is not an inconsistency or is impossible to add.
 - When looking for inconsistencies, look for:
-    Outdated Textures, Mismatched Textures, Texture Bugs, Illogical textures, Mixels (Mixed Pixel Resolutions), Inconsistent Uniformity (ex: textures of the same type having inconsistent shading)
+    Outdated Textures, Mismatched Textures, Texture Bugs, Illogical textures, Mixels (Mixed Pixel Resolutions, anything that isn't 16x), Inconsistent Uniformity (ex: textures of the same type having inconsistent shading, a couple ores have unique shapes but the rest are the same)
