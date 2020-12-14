@@ -15,6 +15,7 @@ Blocks:
 - Iron bars colored with shiny rails colors and z-fighting issue fixed
 - Iron Ore made white but slightly oxidized like new copper ore
 - Observer top texture updated
+- Sugarcane is 3D to be in line with bamboo
 - Changed dropper's mouth to vertical version
 - Fixed top texture of gilded blackstone for consistency with normal blackstone
 - Smooth Stone given highlight since slabs have it
@@ -71,7 +72,6 @@ Entities:
 - Spectral arrows now actually look like the item and are glowstone colored
 - Bats and vexes made more pixel consistent
 - Mooshrooms given pink patches to match brown mooshrooms and mooblooms
-- Gold armor recolored with new palette, is now slightly darker
 - Saddles on pigs, striders and ravagers are now brown to match color of horse saddles
 - Zombies given torn up, discolored clothing like husks and drowned
 - Blacked out zombie villager eyes to match normal zombies
@@ -213,7 +213,7 @@ Misc:
 - Renamed "Zombified Piglins" to "Zombie Piglins"
 - Renamed "Nether Wart Block" to "Crimson Wart Block"
 - Renamed "Nether Sprouts" to "Warped Sprouts"
-- "Beetroot Soup" renamed to "Beetroot Stew"
+- Renamed"Beetroot Soup" to "Beetroot Stew"
 - Renamed "Nether Quartz" to "Quartz"
 - Renamed "Carrot/Warped Fungus on a Stick" to "Carrot/Warped Fungus on a Rod"
 - Removed the word "charge" from some banner pattern items for consistent names
