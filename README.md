@@ -4,6 +4,8 @@ This github repository was created mainly so I can keep better track of suggesti
 
 You can suggest or report a bug by opening a new issue in Issues
 
+Fixed Inconsistencies only supports the latest release of Minecraft. The only mod Fi supports is the latest release of OptiFine.
+
 Leaving an Issue:
 ------------------------------
 - Don't mark priority on anything (Don't use low, normal or high tags). I will be deciding the level of priority myself.
