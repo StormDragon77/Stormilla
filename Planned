@@ -17,7 +17,7 @@ A little preview into what's coming in the future (Please remember these are sub
 - Better item sprites for 2 tall flowers
 - Recolor saplings more like fully grown counterpart
 - Bottom texture for melon
-- Pixel consistency for everything possible (WIP) Missing: wither, signs, babies, rabbits, cave spiders
+- Pixel consistency for everything possible (WIP) Missing: wither, signs, babies, rabbits, cave spiders, string block
 - Update enderman and ender dragon
 - Edit the way you hold lanterns in third person
 - Bedrock piston arms
@@ -27,4 +27,8 @@ A little preview into what's coming in the future (Please remember these are sub
 - Give cauldrons a proper inside texture
 - Broken elytra entity (OptiFine)
 - Make loom bottom less flat
-- Update sugarcane texture
+- Update Outdated Textures: dirt, sugarcane, enderman, ender dragon, fire, colored terracotta, trapdoors, spawn eggs, structure blocks, silverfish, parrot, default skins (revisit them), endermite, shulker (maybe), stick
+- Improve color palette of: fire, lava, coarse dirt (the palettes of these blocks is more of a mishmash of randomness compared to every other block)
+- Make salmon item look more like entity
+- Give better shading to barrier and structure void
+- Update torches
