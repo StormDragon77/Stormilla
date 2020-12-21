@@ -13,7 +13,7 @@ Leaving an Issue:
 
 ------------------------------
 BUGS:
-- Your bug will be marked invalid/wontfix if it cannot be reproduced, it isn't a problem relating to this pack or if it is intended
+- Your bug will be marked invalid/declined if it cannot be reproduced, it isn't a problem relating to this pack or if it is intended
 - Bugs can be:
     Missed Textures and Inconsistencies, Texturing Errors, Unnecessary Files within Pack, Typos in Description and Outdated Preview Images on PMC
 - Bugs that are not caused by Fixed Inconsistencies should be labeled as ideas. Also if it hasn't been reported yet, please report the bug to Mojang at https://bugs.mojang.com/secure/Dashboard.jspa 
@@ -24,6 +24,6 @@ BUGS:
     - Old versions of Minecraft and Optifine are not supported so check if the bug is present in the latest release.
 ------------------------------
 SUGGESTIONS:
-- Your suggestion will be marked invalid/wontfix if it strays too far from vanilla, is not an inconsistency or is impossible to add.
+- Your suggestion will be marked invalid/declined if it strays too far from vanilla, is not an inconsistency or is impossible to add.
 - When looking for inconsistencies, look for:
     Outdated Textures, Mismatched Textures, Texture Bugs, Illogical textures, Mixels (Mixed Pixel Resolutions, anything that isn't 16x), Inconsistent Uniformity (ex: textures of the same type having inconsistent shading, a couple ores have unique shapes but the rest are the same)
