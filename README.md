@@ -9,6 +9,7 @@ Fixed Inconsistencies only supports the latest release of Minecraft. The only mo
 Leaving an Issue:
 ------------------------------
 - Don't mark priority on anything (Don't use low, normal or high tags). I will be deciding the level of priority myself.
+- If an issue is marked as added or fixed but is not in the latest release, it will be in the next one.
 
 ------------------------------
 BUGS:
