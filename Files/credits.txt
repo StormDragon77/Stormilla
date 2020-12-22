@@ -1,8 +1,16 @@
 Fixed Inconsistencies Credits:
 
+
 Pack Developer:
 StormDragon77 | https://www.planetminecraft.com/member/stormdragon77
+
 -----------------------------------------------------------
+
+Contributor:
+NAPSTABLOOKY22 | https://www.planetminecraft.com/member/napstablooky22/
+
+-----------------------------------------------------------
+
 Provided Resources:
 Vanilla Tweaks | https://vanillatweaks.net/
 	Jappa Observer
@@ -15,11 +23,12 @@ Vanilla Tweaks | https://vanillatweaks.net/
 	Soul Soil Soul Campfire
 	Iron Bars Fix
 	Corrected Item Holding
-	3D Sugarcane
 
 Siraiso | https://www.planetminecraft.com/member/siraiso/
 	Stats Icons Fix
+
 -----------------------------------------------------------
+
 Special Thanks:
 NAPSTABLOOKY22 | https://www.planetminecraft.com/member/napstablooky22/
 FTB9898 | https://www.planetminecraft.com/member/ftb9898/
