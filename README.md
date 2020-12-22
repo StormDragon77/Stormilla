@@ -25,5 +25,5 @@ BUGS:
 ------------------------------
 SUGGESTIONS:
 - Your suggestion will be marked invalid/declined if it strays too far from vanilla, is not an inconsistency or is impossible to add.
-- When looking for inconsistencies, look for:
-    Outdated Textures, Mismatched Textures, Texture Bugs, Illogical textures, Mixels (Mixed Pixel Resolutions, anything that isn't 16x), Inconsistent Uniformity (ex: textures of the same type having inconsistent shading, a couple ores have unique shapes but the rest are the same)
+- When looking for inconsistencies, I am lookking for 6 things:
+    Outdated Textures, Mismatched Textures, Texture Bugs, Illogical textures, Mixels (Mixed Pixel Resolutions, anything that isn't 16x), Inconsistent Uniformity (a group of blocks/items should either all be uniform or not at all. Ex: dyes, ores)
