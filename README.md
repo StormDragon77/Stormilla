@@ -32,14 +32,21 @@ SUGGESTIONS:
 - Suggestions that are not possible to add as far as I know: changing sounds of certain blocks, changing armor models (even with optifine)
 ------------------------------
 CREDITS:
+
 Pack Developer:
+
 StormDragon77 | https://www.planetminecraft.com/member/stormdragon77
+
 -----------------------------------------------------------
 Contributor:
+
 NAPSTABLOOKY22 | https://www.planetminecraft.com/member/napstablooky22/
+
 -----------------------------------------------------------
 Provided Resources:
+
 Vanilla Tweaks | https://vanillatweaks.net/
+
 	Jappa Observer
 	Blaze's Rods Fix (Texture modified)
 	Guardian Pixel Fix
@@ -52,9 +59,13 @@ Vanilla Tweaks | https://vanillatweaks.net/
 	Corrected Item Holding
 
 Siraiso | https://www.planetminecraft.com/member/siraiso/
+
 	Stats Icons Fix
+	
 -----------------------------------------------------------
 Special Thanks:
+
 NAPSTABLOOKY22 | https://www.planetminecraft.com/member/napstablooky22/
+
 FTB9898 | https://www.planetminecraft.com/member/ftb9898/
 	For leaving frequent suggestions
