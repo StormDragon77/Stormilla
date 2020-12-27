@@ -10,7 +10,6 @@ If you need to contact Storm, you can do so through Discord: StormDragon77#0675,
 
 Leaving an Issue:
 ------------------------------
-- Don't mark priority on anything (Don't use low, normal or high tags). I will be deciding the level of priority myself.
 - If an issue is marked as added or fixed but is not in the latest release, it will be in the next one.
 
 ------------------------------
