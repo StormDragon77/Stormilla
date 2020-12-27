@@ -6,6 +6,8 @@ You can suggest or report a bug by opening a new issue in Issues
 
 Fixed Inconsistencies only supports the latest release of Minecraft. The only mod Fi supports is the latest release of OptiFine.
 
+If you need to contact Storm, you can do so through Discord: StormDragon77#0675, PMC: StormDragon77 or Twitter: @StormDragn77
+
 Leaving an Issue:
 ------------------------------
 - Don't mark priority on anything (Don't use low, normal or high tags). I will be deciding the level of priority myself.
@@ -27,3 +29,31 @@ SUGGESTIONS:
 - Your suggestion will be marked invalid/declined if it strays too far from vanilla, is not an inconsistency or is impossible to add.
 - When looking for inconsistencies, I am lookking for 6 things:
     Outdated Textures, Mismatched Textures, Texture Bugs, Illogical textures, Mixels (Mixed Pixel Resolutions, anything that isn't 16x), Inconsistent Uniformity (a group of blocks/items should either all be uniform or not at all. Ex: dyes, ores)
+------------------------------
+CREDITS:
+Pack Developer:
+StormDragon77 | https://www.planetminecraft.com/member/stormdragon77
+-----------------------------------------------------------
+Contributor:
+NAPSTABLOOKY22 | https://www.planetminecraft.com/member/napstablooky22/
+-----------------------------------------------------------
+Provided Resources:
+Vanilla Tweaks | https://vanillatweaks.net/
+	Jappa Observer
+	Blaze's Rods Fix (Texture modified)
+	Guardian Pixel Fix
+	Stonecutter Fix
+	Villager Cloak Fix
+	Item Stitching Fix
+	Proper Break Particles (Not all included)
+	Soul Soil Soul Campfire
+	Iron Bars Fix
+	Corrected Item Holding
+
+Siraiso | https://www.planetminecraft.com/member/siraiso/
+	Stats Icons Fix
+-----------------------------------------------------------
+Special Thanks:
+NAPSTABLOOKY22 | https://www.planetminecraft.com/member/napstablooky22/
+FTB9898 | https://www.planetminecraft.com/member/ftb9898/
+	For leaving frequent suggestions
