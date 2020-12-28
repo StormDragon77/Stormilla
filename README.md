@@ -28,6 +28,7 @@ SUGGESTIONS:
 - Your suggestion will be marked invalid/declined if it strays too far from vanilla, is not an inconsistency or is impossible to add.
 - When looking for inconsistencies, I am lookking for 6 things:
     Outdated Textures, Mismatched Textures, Texture Bugs, Illogical textures, Mixels (Mixed Pixel Resolutions, anything that isn't 16x), Inconsistent Uniformity (a group of blocks/items should either all be uniform or not at all. Ex: dyes, ores)
+- Please don't request adding other people's assets. Most of the time the answer is no, I like making the assets myself. You can however request an idea from another pack that you like and I might do my own spin on it.
 - Suggestions that are not possible to add as far as I know: changing sounds of certain blocks, changing armor models (even with optifine)
 ------------------------------
 CREDITS:
