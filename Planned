@@ -1,5 +1,5 @@
 A little preview into what's coming in the future (Please remember these are subject to change and are in no particular order in terms of priority)
-- White Iron golems with poppies
+- White Iron golems with red flowers
 - Redder crimson (Addon pack)
 - Fix mirroring doors
 - Update fire
@@ -11,7 +11,7 @@ A little preview into what's coming in the future (Please remember these are sub
 - Custom texture for debug stick
 - Fix pattern compression on banner shields
 - Better Sunflowers
-- Change wood color on shield, jukebox, noteblock, composter, painting back to one of the existing 8 wood types
+- Change wood color on shield, jukebox, noteblock, composter, smithing table to one of the existing 8 wood types
 - HD title like on bedrock
 - Item sprites for: stonecutter, grindstone, anvil, composter, end rod, trapdoors, enchanting table, daylight sensor, lectern
 - Better item sprites for 2 tall flowers
@@ -32,3 +32,4 @@ A little preview into what's coming in the future (Please remember these are sub
 - Make salmon item look more like entity
 - Give better shading to barrier and structure void
 - Update torches
+- improve shading on pickaxes
