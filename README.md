@@ -35,37 +35,33 @@ CREDITS:
 
 Pack Developer:
 
-StormDragon77 | https://www.planetminecraft.com/member/stormdragon77
+[StormDragon77](https://www.planetminecraft.com/member/stormdragon77)
 
 -----------------------------------------------------------
 Contributor:
 
-NAPSTABLOOKY22 | https://www.planetminecraft.com/member/napstablooky22/
+[NAPSTABLOOKY22](https://www.planetminecraft.com/member/napstablooky22/)
 
 -----------------------------------------------------------
 Provided Resources:
 
-Vanilla Tweaks | https://vanillatweaks.net/
+[Vanilla Tweaks](https://vanillatweaks.net/)
 
 	Jappa Observer
-	Blaze's Rods Fix (Texture modified)
+	Blaze's Rods Fix (modified)
 	Guardian Pixel Fix
 	Stonecutter Fix
 	Villager Cloak Fix
-	Item Stitching Fix
-	Proper Break Particles (Not all included)
+	Proper Break Particles (modified)
 	Soul Soil Soul Campfire
 	Iron Bars Fix
 	Corrected Item Holding
-
-Siraiso | https://www.planetminecraft.com/member/siraiso/
-
-	Stats Icons Fix
 	
 -----------------------------------------------------------
 Special Thanks:
 
-NAPSTABLOOKY22 | https://www.planetminecraft.com/member/napstablooky22/
+[NAPSTABLOOKY22](https://www.planetminecraft.com/member/napstablooky22/)
 
-FTB9898 | https://www.planetminecraft.com/member/ftb9898/
+[FTB9898](https://www.planetminecraft.com/member/ftb9898/)
+
 	For leaving frequent suggestions
