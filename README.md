@@ -1,4 +1,4 @@
-# Fixed Inconsistencies - https://www.planetminecraft.com/texture-pack/fixed-inconsistencies/
+# [Fixed Inconsistencies](https://www.planetminecraft.com/texture-pack/fixed-inconsistencies/)
 
 This github repository was created mainly so I can keep better track of suggestions and bugs
 
