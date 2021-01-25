@@ -14,18 +14,14 @@ NAPSTABLOOKY22 | https://www.planetminecraft.com/member/napstablooky22/
 Provided Resources:
 Vanilla Tweaks | https://vanillatweaks.net/
 	Jappa Observer
-	Blaze's Rods Fix (Texture modified)
+	Blaze's Rods Fix (modified)
 	Guardian Pixel Fix
 	Stonecutter Fix
 	Villager Cloak Fix
-	Item Stitching Fix
-	Proper Break Particles (Not all included)
+	Proper Break Particles (modified)
 	Soul Soil Soul Campfire
 	Iron Bars Fix
 	Corrected Item Holding
-
-Siraiso | https://www.planetminecraft.com/member/siraiso/
-	Stats Icons Fix
 
 -----------------------------------------------------------
 
