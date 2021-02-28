@@ -62,6 +62,6 @@ Special Thanks:
 
 [NAPSTABLOOKY22](https://www.planetminecraft.com/member/napstablooky22/)
 
-[FTB9898](https://www.planetminecraft.com/member/ftb9898/)
+[Kancer8496](https://www.planetminecraft.com/member/kancer8496/)
 
 	For leaving frequent suggestions
