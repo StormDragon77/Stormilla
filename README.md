@@ -31,6 +31,13 @@ SUGGESTIONS:
 - Please don't request adding other people's assets. Most of the time the answer is no, I like making the assets myself. You can however request an idea from another pack that you like and I might do my own spin on it.
 - Suggestions that are not possible to add as far as I know: changing sounds of certain blocks, changing armor models (even with optifine)
 ------------------------------
+You can also find old versions available here:
+
+Java: 1.3-present (1.0-1.2 are lost since I never saved them on my pc, it would be possible to almost completely recreate them as I do have screenshots and a changelog)
+
+Bedrock: 1.4-present (1.0-1.1 did not have a bedrock version, 1.2-1.3 are lost)
+
+------------------------------
 CREDITS:
 
 Pack Developer:
