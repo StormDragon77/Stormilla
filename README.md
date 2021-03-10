@@ -27,10 +27,14 @@ BUGS:
 SUGGESTIONS:
 - Your suggestion will be marked invalid/declined if it strays too far from vanilla, is not an inconsistency or is impossible to add.
 - When looking for inconsistencies, I am lookking for 6 things:
+
     Outdated Textures, Mismatched Textures, Texture Bugs, Illogical textures, Mixels (Mixed Pixel Resolutions, anything that isn't 16x), Inconsistent Uniformity (a group of blocks/items should either all be uniform or not at all. Ex: dyes, ores)
 - Please don't request adding other people's assets. Most of the time the answer is no, I like making the assets myself. You can however request an idea from another pack that you like and I might do my own spin on it.
 - Suggestions that are not possible to add as far as I know: 
+
  	Changing sounds of certain blocks, changing models of armor, fishing bobber, shield
+- Suggestions that too drastically change building blocks will not be added (or could potentially be added via addon pack) I don't want this pack to drastically change the look of builds so your builds won't look weird for people who don't have this pack on.
+
 ------------------------------
 You can also find old versions available here:
 
