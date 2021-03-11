@@ -23,6 +23,9 @@ BUGS:
 - If nessessary, include game version and version of pack you are using.
     - Any version of Fi that is not the latest is not supported. Check if your issue persists in the latest release.
     - Old versions of Minecraft and Optifine are not supported so check if the bug is present in the latest release.
+- Bugs that I cannot fix:
+
+	Lighting on tripwire sting on hook model (Mojang bug), end crystal skins for end and nether not rendering (Optifine bug)
 ------------------------------
 SUGGESTIONS:
 - Your suggestion will be marked invalid/declined if it strays too far from vanilla, is not an inconsistency or is impossible to add.
