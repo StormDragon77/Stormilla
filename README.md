@@ -8,7 +8,8 @@ Fixed Inconsistencies only supports the latest release of Minecraft. The only mo
 
 If you need to contact Storm to ask about something, you can do so through Discord: StormDragon77#0675, PMC: StormDragon77 or Twitter: @StormDragn77. You should get a reply within a day.
 
-Leaving an Issue:
+# Leaving an Issue:
+
 ------------------------------
 - If an issue is marked as added or fixed but is not in the latest release, it will be in the next one.
 
@@ -39,14 +40,18 @@ SUGGESTIONS:
 - Suggestions that too drastically change building blocks will not be added (or could potentially be added via addon pack) I don't want this pack to drastically change the look of builds so your builds won't look weird for people who don't have this pack on.
 
 ------------------------------
-You can also find old versions available here:
+# Old Versions:
+
+----------------------
 
 Java: 1.3-present (1.0-1.2 are lost since I never saved them on my pc, it would be possible to almost completely recreate them as I do have screenshots and a changelog)
 
 Bedrock: 1.4-present (1.0-1.1 did not have a bedrock version, 1.2-1.3 are lost)
 
 ------------------------------
-CREDITS:
+# Credits:
+
+-------------------------
 
 Pack Developer:
 
