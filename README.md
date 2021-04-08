@@ -10,7 +10,6 @@ If you need to contact Storm to ask about something, you can do so through Disco
 
 # Leaving an Issue:
 
-------------------------------
 - If an issue is marked as added or fixed but is not in the latest release, it will be in the next one.
 
 ------------------------------
@@ -42,16 +41,12 @@ SUGGESTIONS:
 ------------------------------
 # Old Versions:
 
-----------------------
-
 Java: 1.3-present (1.0-1.2 are lost since I never saved them on my pc, it would be possible to almost completely recreate them as I do have screenshots and a changelog)
 
 Bedrock: 1.4-present (1.0-1.1 did not have a bedrock version, 1.2-1.3 are lost)
 
 ------------------------------
 # Credits:
-
--------------------------
 
 Pack Developer:
 
