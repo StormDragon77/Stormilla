@@ -6,7 +6,7 @@ You can suggest or report a bug by opening a new issue in Issues
 
 Fixed Inconsistencies only supports the latest release of Minecraft. The only mod Fi supports is the latest release of OptiFine.
 
-If you need to contact Storm to ask about something, you can do so through Discord: StormDragon77#0675, PMC: StormDragon77 or Twitter: @StormDragn77. You should get a reply within a day.
+If you need to contact Storm to ask about the pack or if you want to use assets, you can do so through Discord: StormDragon77#0675, PMC: StormDragon77 or Twitter: @StormDragn77. You should get a reply within a day.
 
 # Leaving an Issue:
 
