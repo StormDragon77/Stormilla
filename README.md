@@ -17,7 +17,7 @@ BUGS:
 - Your bug will be marked invalid/declined if it cannot be reproduced, it isn't a problem relating to this pack or if it is intended
 - Bugs can be:
     Missed Textures and Inconsistencies, Texturing Errors, Unnecessary Files within Pack, Typos in Description and Outdated Preview Images on PMC
-- Bugs that are not caused by Fixed Inconsistencies should be labeled as ideas. Also if it hasn't been reported yet, please report the bug to Mojang at https://bugs.mojang.com/secure/Dashboard.jspa 
+- Bugs that are not caused by Fixed Inconsistencies will be labeled as ideas. Also if it hasn't been reported yet, please report the bug to Mojang at https://bugs.mojang.com/secure/Dashboard.jspa 
 - Describe your bug in detail, include image of the bug if possible and especially if a text description can't visualize the problem well enough
 - Specify what platform you are on (Java or bedrock)
 - If nessessary, include game version and version of pack you are using.
@@ -62,9 +62,6 @@ Provided Resources:
 
 [Vanilla Tweaks](https://vanillatweaks.net/)
 
-	Jappa Observer
-	Blaze's Rods Fix (modified)
-	Guardian Pixel Fix
 	Stonecutter Fix
 	Villager Cloak Fix
 	Proper Break Particles (modified)
