@@ -13,9 +13,6 @@ NAPSTABLOOKY22 | https://www.planetminecraft.com/member/napstablooky22/
 
 Provided Resources:
 Vanilla Tweaks | https://vanillatweaks.net/
-	Jappa Observer
-	Blaze's Rods Fix (modified)
-	Guardian Pixel Fix
 	Stonecutter Fix
 	Villager Cloak Fix
 	Proper Break Particles (modified)
