@@ -69,6 +69,11 @@ Provided Resources:
 	Iron Bars Fix
 	Corrected Item Holding
 	
+[TrailerOctopus](https://www.planetminecraft.com/member/traileroctopus)
+
+	Leather Leggings (modified)
+	XP Bottle (moddified)
+	
 -----------------------------------------------------------
 Special Thanks:
 
