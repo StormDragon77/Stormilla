@@ -1,10 +1,10 @@
-# [Fixed Inconsistencies](https://www.planetminecraft.com/texture-pack/fixed-inconsistencies/)
+# [Stormilla](https://www.planetminecraft.com/texture-pack/fixed-inconsistencies/)
 
 This github repository was created mainly so I can keep better track of suggestions and bugs
 
 You can suggest or report a bug by opening a new issue in Issues
 
-Fixed Inconsistencies only supports the latest release of Minecraft. The only mod Fi supports is the latest release of OptiFine.
+Stormilla only supports the latest release of Minecraft. The only mod Fi supports is the latest release of OptiFine.
 
 If you need to contact Storm to ask about the pack or if you want to use assets, you can do so through Discord: StormDragon77#0675, PMC: StormDragon77 or Twitter: @StormDragn77. You should get a reply within a day.
 
@@ -17,7 +17,7 @@ BUGS:
 - Your bug will be marked invalid/declined if it cannot be reproduced, it isn't a problem relating to this pack or if it is intended
 - Bugs can be:
     Missed Textures and Inconsistencies, Texturing Errors, Unnecessary Files within Pack, Typos in Description and Outdated Preview Images on PMC
-- Bugs that are not caused by Fixed Inconsistencies will be labeled as ideas. Also if it hasn't been reported yet, please report the bug to Mojang at https://bugs.mojang.com/secure/Dashboard.jspa 
+- Bugs that are not caused by Stormilla will be labeled as ideas. Also if it hasn't been reported yet, please report the bug to Mojang at https://bugs.mojang.com/secure/Dashboard.jspa 
 - Describe your bug in detail, include image of the bug if possible and especially if a text description can't visualize the problem well enough
 - Specify what platform you are on (Java or bedrock)
 - If nessessary, include game version and version of pack you are using.
