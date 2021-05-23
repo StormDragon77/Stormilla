@@ -4,7 +4,7 @@ This github repository was created mainly so I can keep better track of suggesti
 
 You can suggest or report a bug by opening a new issue in Issues
 
-Stormilla only supports the latest release of Minecraft. The only mod Fi supports is the latest release of OptiFine.
+Stormilla only supports the latest release of Minecraft. The only mod Stormilla supports is the latest release of OptiFine.
 
 If you need to contact Storm to ask about the pack or if you want to use assets, you can do so through Discord: StormDragon77#0675, PMC: StormDragon77 or Twitter: @StormDragn77. You should get a reply within a day.
 
@@ -21,7 +21,7 @@ BUGS:
 - Describe your bug in detail, include image of the bug if possible and especially if a text description can't visualize the problem well enough
 - Specify what platform you are on (Java or bedrock)
 - If nessessary, include game version and version of pack you are using.
-    - Any version of Fi that is not the latest is not supported. Check if your issue persists in the latest release.
+    - Any version of Stormilla that is not the latest is not supported. Check if your issue persists in the latest release.
     - Old versions of Minecraft and Optifine are not supported so check if the bug is present in the latest release.
 - Bugs that I cannot fix:
 
