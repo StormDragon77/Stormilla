@@ -50,9 +50,9 @@ SUGGESTIONS:
 ------------------------------
 # Old Versions:
 
-Java: 1.3-present (1.0-1.2 are lost since I never saved them on my pc, it would be possible to almost completely recreate them as I do have screenshots and a changelog)
+Java: 1.3-present (1.0-1.2 have been retrived through my back up drive, will upload them eventually)
 
-Bedrock: 1.4-present (1.0-1.1 did not have a bedrock version, 1.2-1.3 are lost)
+Bedrock: 1.4-present (1.0-1.1 did not have a bedrock version, 1.2-1.3 have been retrived through my back up drive, will upload them eventually)
 
 ------------------------------
 # Credits:
