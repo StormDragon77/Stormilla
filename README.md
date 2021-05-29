@@ -50,7 +50,7 @@ SUGGESTIONS:
 ------------------------------
 # Old Versions:
 
-Note: The pack's name on releasees prior to 2.0 was called Fixed Inconsistencies
+Note: The pack's name on releases prior to 2.0 was called Fixed Inconsistencies
 
 Java: 1.3-present (1.0-1.2 have been retrived through my back up drive, will upload them eventually)
 
