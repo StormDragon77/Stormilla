@@ -10,6 +10,7 @@ If you need to contact Storm to ask about the pack or if you want to use assets,
 
 # Leaving an Issue:
 
+- Please put different ideas and bug reports in their own issues. This makes it easier to track what has and hasn't been done.
 - If an issue is marked as added or fixed but is not in the latest release, it will be in the next one.
 
 ------------------------------
