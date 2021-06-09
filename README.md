@@ -79,7 +79,7 @@ Provided Resources:
 	Proper Break Particles (modified)
 	Soul Soil Soul Campfire
 	Iron Bars Fix
-	Corrected Item Holding
+	Corrected Item Holding (modified)
 	
 [TrailerOctopus](https://www.planetminecraft.com/member/traileroctopus)
 
