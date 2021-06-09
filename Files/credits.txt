@@ -7,27 +7,19 @@ StormDragon77 | https://www.planetminecraft.com/member/stormdragon77
 -----------------------------------------------------------
 
 Contributor:
-NAPSTABLOOKY22 | https://www.planetminecraft.com/member/napstablooky22/
+Napsta | https://www.planetminecraft.com/member/napsta/
 
 -----------------------------------------------------------
 
 Provided Resources:
 Vanilla Tweaks | https://vanillatweaks.net/
-	Stonecutter Fix
 	Villager Cloak Fix
 	Proper Break Particles (modified)
 	Soul Soil Soul Campfire
 	Iron Bars Fix
-	Corrected Item Holding
+	Corrected Item Holding (modified)
 TrailerOctopus | https://www.planetminecraft.com/member/traileroctopus/
 	Leather Leggings (modified)
 	XP Bottle (modified)
 
 -----------------------------------------------------------
-
-Special Thanks:
-NAPSTABLOOKY22 | https://www.planetminecraft.com/member/napstablooky22/
-FTB9898 | https://www.planetminecraft.com/member/ftb9898/
-	For leaving frequent suggestions
-
-
