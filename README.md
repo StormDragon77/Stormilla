@@ -67,7 +67,7 @@ Pack Developer:
 -----------------------------------------------------------
 Contributor:
 
-[NAPSTABLOOKY22](https://www.planetminecraft.com/member/napstablooky22/)
+[Napsta](https://www.planetminecraft.com/member/napsta/)
 
 -----------------------------------------------------------
 Provided Resources:
