@@ -1,4 +1,4 @@
-Fixed Inconsistencies (Bedrock Edition) Credits:
+Stormilla (Bedrock Edition) Credits:
 
 
 Pack Developer:
@@ -7,7 +7,7 @@ StormDragon77 | https://www.planetminecraft.com/member/stormdragon77
 -----------------------------------------------------------
 
 Contributor:
-NAPSTABLOOKY22 | https://www.planetminecraft.com/member/napstablooky22/
+Napsta | https://www.planetminecraft.com/member/napsta/
 
 -----------------------------------------------------------
 
@@ -15,13 +15,7 @@ Provided Resources:
 Vanilla Tweaks | https://vanillatweaks.net/
 	Villager Cloak Fix
 TrailerOctopus | https://www.planetminecraft.com/member/traileroctopus/
+	Leather Overalls (modified)
 	XP Bottle (modified)
 
 -----------------------------------------------------------
-
-Special Thanks:
-NAPSTABLOOKY22 | https://www.planetminecraft.com/member/napstablooky22/
-FTB9898 | https://www.planetminecraft.com/member/ftb9898/
-	For leaving frequent suggestions
-
-
