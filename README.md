@@ -76,7 +76,6 @@ Provided Resources:
 
 [Vanilla Tweaks](https://vanillatweaks.net/)
 
-	Stonecutter Fix
 	Villager Cloak Fix
 	Proper Break Particles (modified)
 	Soul Soil Soul Campfire
