@@ -49,7 +49,8 @@ SUGGESTIONS:
 - Suggestions that are not possible to add as far as I know: 
 
      - Changing sounds of certain blocks
-     - Changing models of armor, fishing bobber, shield, arrow, elytra, fire charge, dragon fireball
+     - Changing models of armor, fishing bobber, shield, arrow, elytra, fire charge, dragon fireball, player, outer layers of mobs
+     - Changing item and block models on bedrock
 - Suggestions that too drastically change building blocks will not be added (or could potentially be added via addon pack) I don't want this pack to drastically change the look of builds so your builds won't look weird for people who don't have this pack on.
 
 ------------------------------
