@@ -11,7 +11,7 @@ assignees: StormDragon77
 A clear and concise description of what the bug is.
 
 **To Reproduce**
-Steps to reproduce the behavior:
+Steps to replicate the behavior so I can see the bug myself:
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
