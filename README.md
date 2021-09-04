@@ -6,7 +6,7 @@ You can suggest or report a bug by opening a new issue in Issues
 
 Stormilla only supports the latest release of Minecraft. The only mod Stormilla currently supports is the latest release of OptiFine.
 
-Discord server (wip): https://discord.gg/e5CKcu2G6c
+Discord server: https://discord.gg/e5CKcu2G6c
 
 If you need to contact Storm to ask about the pack or if you want to use assets, you can do so through Discord: StormDragon77#0675, PMC: StormDragon77 or Twitter: @StormDragn77. You should get a reply within a day.
 
@@ -58,9 +58,9 @@ SUGGESTIONS:
 
 Note: The pack's name on releases prior to 2.0 was called Fixed Inconsistencies
 
-Java: 1.3-present (1.0-1.2 have been retrived through my back up drive, will upload them eventually)
+Java: 1.3-present
 
-Bedrock: 1.4-present (1.0-1.1 did not have a bedrock version, 1.2-1.3 have been retrived through my back up drive, will upload them eventually)
+Bedrock: 1.4-present (1.0-1.1 did not have a bedrock version)
 
 ------------------------------
 # Credits:
@@ -87,5 +87,6 @@ Provided Resources:
 	
 [TrailerOctopus](https://www.planetminecraft.com/member/traileroctopus)
 
+	Some Emissives
 	Leather Leggings (modified)
 	XP Bottle (moddified)
