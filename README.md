@@ -56,11 +56,11 @@ SUGGESTIONS:
 ------------------------------
 # Old Versions:
 
-Note: The pack's name on releases prior to 2.0 was called Fixed Inconsistencies
+Note: The pack's name on releases prior to 2.0 was called Fixed Inconsistencies, Also prior to 2.1 it is disorganized and I can't do much about it
 
-Java: 1.3-present
+Java: 1.0-present
 
-Bedrock: 1.4-present (1.0-1.1 did not have a bedrock version)
+Bedrock: 1.2-present (1.0-1.1 did not have a bedrock version)
 
 ------------------------------
 # Credits:
