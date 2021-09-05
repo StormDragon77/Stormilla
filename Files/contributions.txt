@@ -15,6 +15,11 @@ crimson door item
 smithing table hammer
 glow item frame
 axolotl and powdered snow buckets
-deepslate diamond and lapis
+deepslate top palette
 tnt side alt
-melon slice tweak
+melon slice tweak on green thing
+helmet items tweak around eyes
+noteblock and jukebox palette
+beacon item
+fully oxidized and unoxidized copper ore variants
+deepslate ore tops bugfix
