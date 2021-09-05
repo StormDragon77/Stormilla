@@ -19,6 +19,7 @@ Vanilla Tweaks | https://vanillatweaks.net/
 	Iron Bars Fix
 	Corrected Item Holding (modified)
 TrailerOctopus | https://www.planetminecraft.com/member/traileroctopus/
+	Some Emessives
 	Leather Leggings (modified)
 	XP Bottle (modified)
 
