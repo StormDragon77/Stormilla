@@ -56,7 +56,7 @@ SUGGESTIONS:
 ------------------------------
 # Old Versions:
 
-Note: The pack's name on releases prior to 2.0 was called Fixed Inconsistencies, Also prior to 2.1 it is disorganized and I can't do much about it
+Note: The pack's name on releases prior to 2.0 were called Fixed Inconsistencies, Also prior to 2.1 it is disorganized and I can't do much about it
 
 Java: 1.0-present
 
