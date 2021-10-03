@@ -23,3 +23,4 @@ noteblock and jukebox palette
 beacon item
 fully oxidized and unoxidized copper ore variants
 deepslate ore tops bugfix
+helmet item tweak around eyes
