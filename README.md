@@ -72,7 +72,7 @@ Pack Developer:
 -----------------------------------------------------------
 Contributor:
 
-[Napsta](https://www.planetminecraft.com/member/napsta/)
+[Napstatoast](https://www.planetminecraft.com/member/napstatoast/)
 
 -----------------------------------------------------------
 Provided Resources:
