@@ -6,7 +6,8 @@ You can suggest or report a bug by opening a new issue in Issues
 
 Stormilla only supports the latest release of Minecraft. The only mod Stormilla currently supports is the latest release of OptiFine.
 
-You can also leave a suggestion or bug report in my discord server: https://discord.gg/e5CKcu2G6c
+# [Discord](https://discord.gg/e5CKcu2G6c)
+You can also leave a suggestion or bug report in my discord server + get access to exclussive previews and even beta releases.
 
 If you need to contact Storm to ask about the pack or if you want to use assets, you can do so through Discord: StormDragon77#0675, PMC: StormDragon77 or Twitter: @StormDragn77. You should get a reply within a day.
 
