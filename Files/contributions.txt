@@ -27,3 +27,4 @@ helmet item tweak around eyes
 cake textures
 iron trapdoor item
 unlit redstone ore textures
+green eyed cave spiders
