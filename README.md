@@ -1,6 +1,6 @@
 # [Stormilla](https://www.planetminecraft.com/texture-pack/fixed-inconsistencies/)
 
-This github repository is used as an issue tracker, has all releases archived, and serves as an archive for files related to the project
+This github repository is used as an issue tracker and serves as an archive for files related to the project
 
 You can suggest or report a bug by opening a new issue in Issues
 
@@ -14,7 +14,7 @@ If you need to contact Storm to ask about the pack or if you want to use assets,
 # Leaving an Issue:
 
 - Please put different ideas and bug reports in their own issues. This makes it easier to track what has and hasn't been done.
-- If an issue is marked as added or fixed but is not in the latest release, it will be in the next one.
+- If an issue is closed but is not in the latest release, it will be in the next one unless marked with declined.
 
 ------------------------------
 BUGS:
@@ -47,17 +47,12 @@ SUGGESTIONS:
 	- Vanilla Building Blocks, I may make tweaks to them but I will not be drastically changing them. I don't want your builds to look too different with this pack on.
 - Please don't request adding other people's assets. Most of the time the answer is no, I like making the assets myself. You can however request an idea from another pack that you like and I might do my own spin on it.
 - If you are looking to contribute something, I am not looking for contributors currently but if you want you can still send something you made my way. Remember: there's no guarentee that it will get added and if it does you will of course be properly credited with your name and link in the description and credits.txt file within the pack.
-- Suggestions that are not possible to add as far as I know: 
-
-     - Changing sounds of certain blocks
-     - Changing models of armor, fishing bobber, shield, arrow, elytra, fire charge, dragon fireball, player, outer layers of mobs
-     - Changing item and block models on bedrock
 - Suggestions that too drastically change building blocks will not be added (or could potentially be added via addon pack) I don't want this pack to drastically change the look of builds so your builds won't look weird for people who don't have this pack on.
 
 ------------------------------
 # Old Versions:
 
-Note: The pack's name on releases prior to 2.0 were called Fixed Inconsistencies, Also prior to 2.1 it is disorganized and I can't do much about it
+Note: The pack's name on releases prior to 2.0 were called Fixed Inconsistencies
 
 Java: 1.0-present
 
@@ -74,6 +69,11 @@ Pack Developer:
 Contributor:
 
 [Napstatoast](https://www.planetminecraft.com/member/napstatoast/)
+
+-----------------------------------------------------------
+Porting Help:
+
+[Bedrock Live](https://www.planetminecraft.com/member/bedrock_live/)
 
 -----------------------------------------------------------
 Provided Resources:
