@@ -1,10 +1,10 @@
 # [Stormilla](https://www.planetminecraft.com/texture-pack/fixed-inconsistencies/)
 
-This github repository is used as an issue tracker and serves as an archive for files related to the project
+This github repository is used as an issue tracker.
 
 You can suggest or report a bug by opening a new issue in Issues
 
-Stormilla only supports the latest release of Minecraft. The only mod Stormilla currently supports is the latest release of OptiFine.
+Stormilla only supports the latest release of Minecraft. The only mod Stormilla currently supports is the latest release of OptiFine and Fabric equivalents that use the OptiFine format.
 
 # [Discord](https://discord.gg/e5CKcu2G6c)
 You can also leave a suggestion or bug report in my discord server + get access to exclussive previews and even *occasional* beta releases.
