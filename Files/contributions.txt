@@ -29,3 +29,9 @@ Napstatoast's Contributions:
   iron trapdoor item
   unlit redstone ore textures
   green eyed cave spiders
+  animated campfire items
+  daylight sensor item
+  enchanting table item
+  mob spawner top
+  cauldron and hopper item adjustments
+  boat item modifications
