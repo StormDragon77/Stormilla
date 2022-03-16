@@ -19,21 +19,15 @@ If you need to contact Storm to ask about the pack or if you want to use assets,
 ------------------------------
 BUGS:
 - Your bug will be marked invalid/declined if it cannot be reproduced, it isn't a problem relating to this pack or if it is intended
-- Bugs can be:
-    Missed Textures and Inconsistencies, Texturing and Modeling Errors, Unnecessary Files within Pack, Typos in Description and Outdated Preview Images on PMC
-- Bugs that are not caused by Stormilla will be labeled as ideas. Also if it hasn't been reported yet, please report the bug to Mojang at https://bugs.mojang.com/secure/Dashboard.jspa 
-- Describe your bug in detail and please include an image of the bug
+- Describe your bug in detail and please include an image of the bug if necessary 
 - Specify what platform you are on (Java or bedrock)
-- If nessessary, include game version and version of pack you are using.
-    - Any version of Stormilla that is not the latest is not supported. Check if your issue persists in the latest release.
-    - Old versions of Minecraft and Optifine are not supported so check if the bug is present in the latest release.
+- Check if you have other resource packs on before reporting
 - Bugs that I cannot fix so don't report these here:
 
     - Lighting on tripwire sting on hook model (Mojang bug), end crystal skins for end and nether not rendering (Optifine bug)
 ------------------------------
 SUGGESTIONS:
-- Your suggestion will be marked invalid/declined if it strays too far from vanilla, is not an inconsistency or is impossible to add.
-- Some will be declined just because it doesn't fit my vision for the pack.
+- Your suggestion will be marked invalid/declined if it strays too far from vanilla, does not fit my vision or is impossible to add.
 - Here's my design principles for this pack to show everything I plan on adding to this:
 	- Fix Inconsistencies, fix every texture and model bug a resource pack can fix
 	- Art Style Consistency, Minecraft's current default pack isn't entirely consistent. Some models and textures look old whether they be over-detailed, under-detailed, have a messy color palette or are just a different art style. Some of these are on purpose such as diamond ore and the creeper due to their iconic look but I will still be updating those too anyway.
@@ -54,9 +48,7 @@ SUGGESTIONS:
 
 Note: The pack's name on releases prior to 2.0 were called Fixed Inconsistencies
 
-Java: 1.0-present
-
-Bedrock: 1.2-present (1.0-1.1 did not have a bedrock version)
+All archived [here](https://app.mediafire.com/kmjyxf2rvlv8o)
 
 ------------------------------
 # Credits:
@@ -69,6 +61,7 @@ Pack Developer:
 Contributor:
 
 [Napstatoast](https://www.planetminecraft.com/member/napstatoast/)
+[Contributions](https://github.com/StormDragon77/Stormilla/blob/main/Files/contributions.txt)
 
 -----------------------------------------------------------
 Porting Help:
