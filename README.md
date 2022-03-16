@@ -61,7 +61,8 @@ Pack Developer:
 Contributor:
 
 [Napstatoast](https://www.planetminecraft.com/member/napstatoast/)
-[Contributions](https://github.com/StormDragon77/Stormilla/blob/main/Files/contributions.txt)
+
+[List of Contributions](https://github.com/StormDragon77/Stormilla/blob/main/Files/contributions.txt)
 
 -----------------------------------------------------------
 Porting Help:
