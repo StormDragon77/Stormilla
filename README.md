@@ -9,7 +9,7 @@ Stormilla only supports the latest release of Minecraft. The only mod Stormilla 
 # [Discord](https://discord.gg/e5CKcu2G6c)
 You can also leave a suggestion or bug report in my discord server + get access to exclussive previews and even *occasional* beta releases.
 
-If you need to contact Storm to ask about the pack or if you want to use assets, you can do so through Discord: StormDragon77#0675, PMC: StormDragon77 or Twitter: @StormDragn77. You should get a reply within a day. (Do NOT contact me about making you a resource pack for free, the answer is no. I do not take requests.)
+If you need to contact Storm to ask about the pack or if you want to use assets, you can do so through Discord: StormDragon77#0675, PMC: [StormDragon77](https://www.planetminecraft.com/member/stormdragon77/) or Twitter: [@StormDragn77](https://twitter.com/Stormdragn77). You should get a reply within a day. (Do NOT contact me about making you a resource pack for free, the answer is no. I do not take requests.)
 
 # Leaving an Issue:
 
