@@ -48,7 +48,7 @@ SUGGESTIONS:
 
 Note: The pack's name on releases prior to 2.0 were called Fixed Inconsistencies
 
-All archived [here](https://app.mediafire.com/kmjyxf2rvlv8o)
+All archived [here](https://www.mediafire.com/folder/kmjyxf2rvlv8o/Stormilla)
 
 ------------------------------
 # Credits:
