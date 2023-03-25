@@ -7,5 +7,4 @@ assignees: StormDragon77
 
 ---
 
-**Describe the Idea**
-Give a clear and concise description of your idea
+Describe the idea in a clear and concise way. I will not add anything that I feel strays too far from vanilla. Do not request I add assets from other resource packs.
