@@ -36,7 +36,7 @@ SUGGESTIONS:
 	- Palette Consistency, Textures of the same material will have the same or a similar color palette (with possibly some exceptions such as iron block and anvil).
 	- Unflatten Textures, Some textures look too flat in shading and that will get fixed.
 	- Parity, Bedrock and java will be as similar as a resource pack allows.
-	- Realism, Some things will be more realistic but of course keeping the vanilla style.
+	- Slightly More Realism, Some things will be more realistic while keeping the vanilla vibe.
 	- Item Model Consistency, some are 2D and some 3D. I am making non-full blocks, except stairs and slabs, 2D
 	- Vanilla Building Blocks, I may make tweaks to them but I will not be drastically changing them. I don't want your builds to look too different with this pack on.
 - Please don't request adding other people's assets. Most of the time the answer is no, I like making the assets myself. You can however request an idea from another pack that you like and I might do my own spin on it.
