@@ -64,7 +64,7 @@ Texture Artists and Modelers:
 
 [Napstatoast](https://www.planetminecraft.com/member/napstatoast/)
 
-[Napsta's Contributions](https://github.com/StormDragon77/Stormilla/blob/main/Files/contributions.txt)
+- [Napsta's Contributions](https://github.com/StormDragon77/Stormilla/blob/main/Files/contributions.txt)
 
 -----------------------------------------------------------
 Porting Help:
