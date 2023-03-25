@@ -53,16 +53,17 @@ All archived [here](https://www.mediafire.com/folder/kmjyxf2rvlv8o/Stormilla)
 ------------------------------
 # Credits:
 
-Pack Developer:
+Creator:
 
 [StormDragon77](https://www.planetminecraft.com/member/stormdragon77)
 
 -----------------------------------------------------------
-Contributor:
+Texture Artists and Modelers:
 
+[StormDragon77](https://www.planetminecraft.com/member/stormdragon77)
 [Napstatoast](https://www.planetminecraft.com/member/napstatoast/)
 
-[List of Contributions](https://github.com/StormDragon77/Stormilla/blob/main/Files/contributions.txt)
+[Napsta's Contributions](https://github.com/StormDragon77/Stormilla/blob/main/Files/contributions.txt)
 
 -----------------------------------------------------------
 Porting Help:
