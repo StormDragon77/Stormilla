@@ -34,3 +34,102 @@ Napstatoast's Contributions:
   mob spawner top
   cauldron and hopper item adjustments
   boat item modifications
+  new campfire items
+  some ore touchups
+  blaze rod in brewing gui
+  added extra lantern frame in animation
+  copper spyglass (item)
+  tadpole bucket
+  fixed disc 11
+  greener melon
+  glistering melon slice tweak
+  dried kelp fix
+  fixed sun size
+  new ender dragon egg texture
+  tweaked snow side texture
+  new glass colors
+  miscolored pixel fixes for oak, spruce sapling, bookshelves
+  fixed grass palette and miscolored pixel
+  coal ore recolor
+  transparent water in water bucket
+  made barrier and structure void more consistent
+  light blue dye color tweak
+  disc 5 fragment
+  campfire bottoms
+  soul sand tweak
+  fire color consistency
+  mineral palette consistency
+  blockier helmets
+  fire charge tweak
+  mob head particle textures
+  dragon egg item
+  rail redstone color fix
+  big dripleaf item
+  small dripleaf item base
+  warped door right side tweak
+  lava bucket fix
+  lodestone tweak
+  unique dyes for lime, magenta, purple, pink and gray
+  scaffolding item
+  sculk shrieker item
+  conduit item
+  palette tweaking of plank related things
+  palette tweaking of stone related things
+  palette tweaking of deepslate related things
+  palette tweaking copper things
+  palette tweaking of doors and trapdoors
+  respawn anchor models
+  respawn anchor item
+  palette tweaking of mineral related things
+  sea lantern tweak
+  spruce jukebox and note block
+  palette tweaking of blackstone related blocks
+  cut sandstone double slab textures
+  new door and trapdoor items
+  sign item posts tweaks
+  bell item tweak
+  palette tweaking of crimson and warped stuff
+  unstrectched raised rails
+  fixed dragon egg UVs
+  wart block retextures
+  vine model tweak
+  square cake item
+  palette tweaking of mushrooms
+  smoker front tweaks
+  3D chest models
+  upscaling wither to 32x
+  minecart item recolors
+  new chest texture on chest boat and chest minecart items
+  plank chests
+  painting items besides sunset
+  clock white sun tweak
+  compass and recovery compass recolor
+  chest boat texture
+  made dripleaves pixel consistent
+  potted sapling, warped roots, dead bush textures
+  new cross models
+  3D mushrooms
+  polished stairs models for granite and blackstone
+  lilypad uv fix
+  tiny rail fixes
+  quartz bricks tweak
+  unstretched raised rails
+  warped, crimson palettes
+  crimson wart block that current is based on
+  wall fixes
+  recoloring tools
+  mushroom stuff palettes
+  wool blocks
+  frogspawn item
+  cut sandstone bottoms
+  furnace cobblestone fix
+  bone block and bookshelf fixes
+  consistent smoker fronts
+  metal parts of barrel
+  door middle textures
+  pixel consistent minecart chest and minecart tnt 
+  some booksehlf variants
+  leather helmet edits
+  dragon fireball
+  3D barrel
+  sign textures tweaks
