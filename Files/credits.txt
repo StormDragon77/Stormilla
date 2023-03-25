@@ -1,26 +1,24 @@
-Fixed Inconsistencies Credits:
-
-
-Pack Developer:
-StormDragon77 | https://www.planetminecraft.com/member/stormdragon77
+Stormilla (Java Edition) Credits:
 
 -----------------------------------------------------------
 
-Contributor:
+Creator:
+StormDragon77 | https://www.linktr.ee/stormdragon77
+
+-----------------------------------------------------------
+
+Texture Artists and Modelers:
+StormDragon77 | https://www.linktr.ee/stormdragon77
 Napstatoast | https://www.planetminecraft.com/member/napstatoast/
+	Contributions are listed in main_contributions.txt since it is very long
 
 -----------------------------------------------------------
 
-Provided Resources:
+Other Contributions:
 Vanilla Tweaks | https://vanillatweaks.net/
-	Villager Cloak Fix
 	Proper Break Particles (modified)
-	Soul Soil Soul Campfire
-	Iron Bars Fix
 	Corrected Item Holding (modified)
 TrailerOctopus | https://www.planetminecraft.com/member/traileroctopus/
-	Some Emessives
-	Leather Leggings (modified)
+	Emissive Textures
+	Leather Overalls (modified)
 	XP Bottle (modified)
-
------------------------------------------------------------
