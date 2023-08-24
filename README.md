@@ -37,7 +37,6 @@ SUGGESTIONS:
 	- Unflatten Textures, Some textures look too flat in shading and that will get fixed.
 	- Parity, Bedrock and java will be as similar as a resource pack allows.
 	- Slightly More Realism, Some things will be more realistic while keeping the vanilla vibe.
-	- Item Model Consistency, some are 2D and some 3D. I am making non-full blocks, except stairs and slabs, 2D
 	- Vanilla Building Blocks, I may make tweaks to them but I will not be drastically changing them. I don't want your builds to look too different with this pack on.
 - Please don't request adding other people's assets. Most of the time the answer is no, I like making the assets myself. You can however request an idea from another pack that you like and I might do my own spin on it.
 - If you are looking to contribute something, I am not looking for contributors currently but if you want you can still send something you made my way. Remember: there's no guarentee that it will get added and if it does you will of course be properly credited with your name and link in the description and credits.txt file within the pack.
