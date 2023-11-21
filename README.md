@@ -4,7 +4,7 @@ This github repository is used as an issue tracker and wiki.
 
 You can suggest or report a bug by opening a new issue in Issues. You can also open an issue for wiki changes.
 
-Stormilla only supports the latest release of Minecraft. The only mods Stormilla currently supports are the latest release of OptiFine and Fabric equivalents that use the OptiFine format.
+Stormilla only supports the latest release of Minecraft (and potentially previous patches if mods aren't updated yet). The only mods Stormilla currently supports are the latest release of OptiFine and Fabric equivalents that use the OptiFine format.
 
 # [Discord](https://discord.gg/e5CKcu2G6c)
 You can also leave a suggestion or bug report in my discord server + get access to exclussive previews and even *occasional* beta releases.
