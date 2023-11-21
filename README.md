@@ -4,7 +4,7 @@ This github repository is used as an issue tracker and wiki.
 
 You can suggest or report a bug by opening a new issue in Issues. You can also open an issue for wiki changes.
 
-Stormilla only supports the latest release of Minecraft. The only mod Stormilla currently supports is the latest release of OptiFine and Fabric equivalents that use the OptiFine format.
+Stormilla only supports the latest release of Minecraft. The only mods Stormilla currently supports are the latest release of OptiFine and Fabric equivalents that use the OptiFine format.
 
 # [Discord](https://discord.gg/e5CKcu2G6c)
 You can also leave a suggestion or bug report in my discord server + get access to exclussive previews and even *occasional* beta releases.
@@ -24,7 +24,7 @@ BUGS:
 - Check if you have other resource packs on before reporting
 - Bugs that I cannot fix so don't report these here:
 
-    - Lighting on tripwire sting on hook model (Mojang bug), end crystal skins for end and nether not rendering (Optifine bug)
+    - Lighting on tripwire string on hook model (Mojang bug), end crystal skins for end and nether not rendering (Optifine bug)
 ------------------------------
 SUGGESTIONS:
 - Your suggestion will be marked invalid/declined if it strays too far from vanilla, does not fit my vision or is impossible to add.
