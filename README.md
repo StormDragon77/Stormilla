@@ -1,6 +1,6 @@
 # [Stormilla](https://www.planetminecraft.com/texture-pack/fixed-inconsistencies/)
 
-This github repository is used as an issue tracker and wiki.
+This github repository is used as an issue tracker, wiki and file archive. Releases can be found on [Modrinth](https://modrinth.com/resourcepack/stormilla) and [CurseForge](https://www.curseforge.com/minecraft/texture-packs/stormilla).<br />[PlanetMinecraft](https://www.planetminecraft.com/texture-pack/fixed-inconsistencies/) has links to latest downloads only.
 
 You can suggest or report a bug by opening a new issue in Issues. You can also open an issue for wiki changes.
 
@@ -9,7 +9,7 @@ Stormilla only supports the latest release of Minecraft (and potentially previou
 # [Discord](https://discord.gg/e5CKcu2G6c)
 You can also leave a suggestion or bug report in my discord server + get access to exclussive previews and even *very occasional* beta releases.
 
-If you need to contact Storm to ask about the pack or if you want to use assets, you can do so through Discord: StormDragon77#0675, PMC: [StormDragon77](https://www.planetminecraft.com/member/stormdragon77/) or Twitter: [@StormDragn77](https://twitter.com/Stormdragn77). You should get a reply within a day. (Do NOT contact me about making you a resource pack for free, the answer is no. I do not take requests.)
+If you need to contact Storm to ask about the pack or if you want to use assets, you can do so through [Discord](https://discord.gg/e5CKcu2G6c) or PMC: [StormDragon77](https://www.planetminecraft.com/member/stormdragon77/). You should get a reply within a day. (Do NOT contact me about making you a resource pack for free, the answer is no. I do not take requests.)
 
 # Leaving an Issue:
 
