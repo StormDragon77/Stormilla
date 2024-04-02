@@ -45,6 +45,8 @@ If you need to contact Storm to ask about the pack or if you want to use assets,
 ------------------------------
 # Old Versions:
 
+All versions ever released are stored on mediaifre at the moment, this is because the project originally solely existed on PMC.
+
 Note: The pack's name on releases prior to 2.0 were called Fixed Inconsistencies
 
 All archived [here](https://www.mediafire.com/folder/kmjyxf2rvlv8o/Stormilla)
