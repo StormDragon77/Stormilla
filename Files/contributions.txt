@@ -1,8 +1,7 @@
-Napstatoast's Contributions:
+Septyna's Contributions:
 
-(Note: contains contributions that are done entirely by Napsta and contributions that were collaborative or tweaked by Storm)
+(Note: contains contributions that are done entirely by Sept and contributions that were collaborative or tweaked by Storm)
 
-  campfire bottom
   leather helmet nose guard
   accurate cyan dye
   creative delete button
@@ -101,7 +100,6 @@ Napstatoast's Contributions:
   minecart item recolors
   new chest texture on chest boat and chest minecart items
   plank chests
-  painting items besides sunset
   clock white sun tweak
   compass and recovery compass recolor
   chest boat texture
@@ -128,8 +126,42 @@ Napstatoast's Contributions:
   metal parts of barrel
   door middle textures
   pixel consistent minecart chest and minecart tnt 
-  some booksehlf variants
+  some bookshelf variants
   leather helmet edits
   dragon fireball
   3D barrel
-  sign textures tweaks
+  sign textures
+  fixed cit paintings in inventory
+  fixed birch door uv issue
+  sign model
+  chest models
+  farmland moisture levels
+  netherwart 3rd growth stage texture
+  torch items
+  cherry and bamboo features
+  chest texture tweaks
+  stripped logs tweaks
+  melon stem base
+  custom wall post textures and models
+  curved rail edit
+  white cow texture base
+  scaffolding palette fix
+  cow variant help
+  pressure plate item base
+  mooshroom textures
+  cit cow and mooshroom spawn eggs
+  torchflower pot texture
+  bookshelf top texture
+  conduit item
+  chest model optimizations
+  item frame z-fighting with rails fix
+  lilac item
+  peony item
+  carpet item
+  green bamboo sign post
+  some carved pumpkin faces
+  small chest minecart model fix
+  melon variant base
+  iron palette consistency
+  rounder sun and moon
+  bucket and bowl items help
