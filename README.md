@@ -1,3 +1,5 @@
+![Stormilla Logo](https://github.com/StormDragon77/Stormilla/blob/main/Files/images/imagehost/stormilla3DlogoB.png)
+
 # [Stormilla](https://www.planetminecraft.com/texture-pack/fixed-inconsistencies/)
 
 This github repository is used as an issue tracker, wiki and file archive. Releases can be found on [Modrinth](https://modrinth.com/resourcepack/stormilla) and [CurseForge](https://www.curseforge.com/minecraft/texture-packs/stormilla).<br />[PlanetMinecraft](https://www.planetminecraft.com/texture-pack/fixed-inconsistencies/) has links to latest downloads only.
