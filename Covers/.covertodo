@@ -1,1 +1,2 @@
-move covers to imgur albums for easier viewing
+delete covers directory, images will be in files/images/imagehost
+images themselves will be in text files in an easily viewable way instead of having to view each file individually
