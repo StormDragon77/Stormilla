@@ -1,4 +1,4 @@
-![Stormilla Logo](https://github.com/StormDragon77/Stormilla/blob/main/Files/images/imagehost/stormilla3DlogoB.png)
+![Stormilla Logo](https://github.com/StormDragon77/Stormilla/blob/main/Files/images/imagehost/stormilla3Dlogo.png)
 
 # [Stormilla](https://www.planetminecraft.com/texture-pack/fixed-inconsistencies/)
 
