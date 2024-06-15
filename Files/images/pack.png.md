@@ -20,7 +20,7 @@ The pack used to be called Fixed Inconsistencies. Was renamed due to being more 
 
 <br>
 
-# Stomrilla Dec 2022
+# Stormilla Dec 2022
 ![Stormilla 2022](https://github.com/StormDragon77/Stormilla/blob/main/Files/images/imagehost/StormillaDec2022pack.png)
 
 <br>
