@@ -1,29 +1,32 @@
 The pack used to be called Fixed Inconsistencies. Was renamed due to being more of a vanilla+ pack rather than just fixing inconsistencies.
-
-# Fixed Inconsistencies Original
-![Fi image og](https://github.com/StormDragon77/Stormilla/blob/main/Files/images/imagehost/FixedInconOGpack.png)
-
-<br>
+Dates are when the icon was first used.
 
 # Fixed Inconsistencies
-![Fi image](https://github.com/StormDragon77/Stormilla/blob/main/Files/images/imagehost/FixedInconpack.png)
+### Aug 2020
+![Fi image og](https://github.com/StormDragon77/Stormilla/blob/main/Files/images/imagehost/pack.png/FixedInconOG.png)
 
 <br>
 
-# Stormilla Rebrand
-![Stormilla rebrand](https://github.com/StormDragon77/Stormilla/blob/main/Files/images/imagehost/StormillaRebrandpack.png)
+### Sep 2020
+![Fi image](https://github.com/StormDragon77/Stormilla/blob/main/Files/images/imagehost/pack.png/FixedIncon.png)
 
 <br>
 
-# Stormilla Aug 2021
-![Stormilla 2021](https://github.com/StormDragon77/Stormilla/blob/main/Files/images/imagehost/StormillaAug2021pack.png)
+# Stormilla
+### May 2021
+![Stormilla rebrand](https://github.com/StormDragon77/Stormilla/blob/main/Files/images/imagehost/pack.png/StormillaRebrand.png)
 
 <br>
 
-# Stormilla Dec 2022
-![Stormilla 2022](https://github.com/StormDragon77/Stormilla/blob/main/Files/images/imagehost/StormillaDec2022pack.png)
+### Aug 2021
+![Stormilla 2021](https://github.com/StormDragon77/Stormilla/blob/main/Files/images/imagehost/pack.png/StormillaAug2021.png)
 
 <br>
 
-# Stormilla Aug 2023 (Modern)
-![Stormilla 2023](https://github.com/StormDragon77/Stormilla/blob/main/Files/images/imagehost/StormillaAug2023.png)
+### Dec 2022
+![Stormilla 2022](https://github.com/StormDragon77/Stormilla/blob/main/Files/images/imagehost/pack.png/StormillaDec2022.png)
+
+<br>
+
+### Aug 2023 (Modern)
+![Stormilla 2023](https://github.com/StormDragon77/Stormilla/blob/main/Files/images/imagehost/pack.png/StormillaAug2023.png)
