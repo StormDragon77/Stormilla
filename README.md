@@ -6,12 +6,15 @@ This github repository is used as an issue tracker, wiki and file archive. Relea
 
 You can suggest or report a bug by opening a new issue in Issues. You can also open an issue for wiki changes.
 
-Stormilla only supports the latest release of Minecraft (and potentially previous patches if mods aren't updated yet). The only mods Stormilla currently supports are the latest release of OptiFine and Fabric equivalents that use the OptiFine format.
+Stormilla currently supports 1.20.2+, this is because of the new overlay system makes reliable compatibility with old versions actually possible. I may start supporting popular old versions eventually as well. The only mods Stormilla currently supports are the latest release of OptiFine and Fabric equivalents that use the OptiFine format.
 
 # [Discord](https://discord.gg/e5CKcu2G6c)
 You can also leave a suggestion or bug report in my discord server + get access to exclussive previews and even *very occasional* beta releases.
 
 If you need to contact Storm to ask about the pack or if you want to use assets, you can do so through [the Discord server](https://discord.gg/e5CKcu2G6c) in #help or PMC: [StormDragon77](https://www.planetminecraft.com/member/stormdragon77/). You should get a reply within a day. (Do NOT contact me about making you a resource pack for free, the answer is no. I do not take requests.)
+
+# [Minecraft Bug Repository](https://github.com/StormDragon77/MCBugs)
+This other repository is specifically for tracking Minecraft bugs fixed and ones I plan to fix for this pack and 2 others of mine
 
 # Leaving an Issue:
 
