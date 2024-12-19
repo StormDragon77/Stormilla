@@ -4,7 +4,18 @@ This github repository is used as an issue tracker, wiki and file archive. Relea
 
 You can suggest or report a bug by opening a new issue in Issues. You can also open an issue for wiki changes.
 
-Stormilla currently supports 1.20.2+, this is because of the new overlay system makes reliable compatibility with old versions actually possible. I may start supporting popular old versions eventually as well. The only mods Stormilla currently supports are the latest release of OptiFine and Fabric equivalents that use the OptiFine format.
+### Stormilla Supports
+
+- Minecraft 1.20.2+
+- Fabric Mods: Entity Texture Features, Entity Model Features, Continuity, CITResewn, Animatica, Polytone, Respackopts, NotEnoughAnimations. [Stormilla Modded](https://modrinth.com/resourcepack/stormodda) by Bruhnanza provides extended support
+- OptiFine
+
+### Stormilla does not Support
+
+- Minecraft 1.20.1- and snapshots
+- Programmer art
+- Different resolutions like 32x
+- Fresh Animations (yet)
 
 # [Discord](https://discord.gg/e5CKcu2G6c)
 You can also leave a suggestion or bug report in my discord server + get access to exclussive previews and even *very occasional* beta releases.
