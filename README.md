@@ -1,6 +1,6 @@
 [![Stormilla Logo](https://github.com/StormDragon77/Stormilla/blob/main/Files/images/imagehost/stormilla3Dlogo.png)](https://www.planetminecraft.com/texture-pack/fixed-inconsistencies/)
 
-This github repository is used as an issue tracker, wiki and file archive. Releases can be found on [Modrinth](https://modrinth.com/resourcepack/stormilla) and [CurseForge](https://www.curseforge.com/minecraft/texture-packs/stormilla).<br />[PlanetMinecraft](https://www.planetminecraft.com/texture-pack/fixed-inconsistencies/) has links to latest downloads only.
+This github repository is used as an issue tracker, wiki and file archive. Releases can be found on [Modrinth](https://modrinth.com/resourcepack/stormilla) and [CurseForge](https://www.curseforge.com/minecraft/texture-packs/stormilla).<br>[PlanetMinecraft](https://www.planetminecraft.com/texture-pack/fixed-inconsistencies/) has links to latest downloads only.
 
 You can suggest or report a bug by opening a new issue in Issues. You can also open an issue for wiki changes.
 
@@ -8,7 +8,7 @@ You can suggest or report a bug by opening a new issue in Issues. You can also o
 
 - Minecraft 1.20.2+
 - Fabric Mods: Entity Texture Features, Entity Model Features, Continuity, CITResewn, Animatica, Polytone, Respackopts, NotEnoughAnimations. [Stormilla Modded](https://modrinth.com/resourcepack/stormodda) by Bruhnanza provides extended support
-- OptiFine
+- OptiFine (No longer testing in OptiFine so if something breaks for some reason, report it)
 
 ### Stormilla does not Support
 
@@ -41,15 +41,15 @@ This other repository is specifically for tracking Minecraft bugs fixed and ones
 ### SUGGESTIONS:
 - Your suggestion will be marked invalid/declined if it strays too far from vanilla, does not fit my vision or is impossible to add.
 - <details><summary>Here's my design principles for this pack to show everything I plan on adding to this:</summary>
-	- Fix Inconsistencies, fix every texture and model bug a resource pack can fix and also logical inconsistencies<br />
-	- Art Style Consistency, Minecraft's current default pack isn't entirely consistent. Some models and textures look old whether they be over-detailed, under-detailed, have a messy color palette or are just a different art style. Some of these are on purpose such as diamond ore and the creeper due to their iconic look but I will still be updating those too anyway.<br />
-	- Pixel Consistency, most of the game is already pixel consistent. There are just a few textures that have a different resolution compared to a block. If the pixels are not the same size as the ones on a normal block then it will be fixed if possible.<br />
-	- Less Uniformity, most textures that is simply a recolor of an existing texture will be made more unique like the ore changes in 1.17 (as of right now, exceptions are things like wood planks, concrete, and terracotta.)<br />
-	- Palette Consistency, Textures of the same material will have the same or a similar color palette (with possibly some exceptions such as iron block and anvil).<br />
-	- Parity, Bedrock and java will be as similar as a resource pack allows.<br />
-	- Slightly More Realism, Some things will be more realistic while not sacrificing the feel of vanilla.<br />
-	- New Item Models, many items have a consistency problem like with the cauldron being 2D and composter 3D. They have no reason to be different. Some items also simply use the flat block texture instead of having a dedicated item texture. I'll be changing both of these.<br />
-	- Vanilla Building Blocks, I may make tweaks to them but I will not be drastically changing them. I don't want your builds to look too different with this pack on.<br />
+	- Fix Inconsistencies, fix every texture and model bug a resource pack can fix and also logical inconsistencies<br>
+	- Art Style Consistency, Minecraft's current default pack isn't entirely consistent. Some models and textures look old whether they be over-detailed, under-detailed, have a messy color palette or are just a different art style. Some of these are on purpose such as diamond ore and the creeper due to their iconic look but I will still be updating those too anyway.<br>
+	- Pixel Consistency, most of the game is already pixel consistent. There are just a few textures that have a different resolution compared to a block. If the pixels are not the same size as the ones on a normal block then it will be fixed if possible.<br>
+	- Less Uniformity, most textures that is simply a recolor of an existing texture will be made more unique like the ore changes in 1.17 (as of right now, exceptions are things like wood planks, concrete, and terracotta.)<br>
+	- Palette Consistency, Textures of the same material will have the same or a similar color palette (with possibly some exceptions such as iron block and anvil).<br>
+	- Parity, Bedrock and java will be as similar as a resource pack allows.<br>
+	- Slightly More Realism, Some things will be more realistic while not sacrificing the feel of vanilla.<br>
+	- New Item Models, many items have a consistency problem like with the cauldron being 2D and composter 3D. They have no reason to be different. Some items also simply use the flat block texture instead of having a dedicated item texture. I'll be changing both of these.<br>
+	- Vanilla Building Blocks, I may make tweaks to them but I will not be drastically changing them. I don't want your builds to look too different with this pack on.<br>
 </details>
 
 - Please don't request adding other people's assets. Most of the time the answer is no, I like making the assets myself. You can however request an idea from another pack that you like and I might do my own spin on it.
