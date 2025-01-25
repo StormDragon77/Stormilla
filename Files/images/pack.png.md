@@ -28,5 +28,10 @@ Dates are when the icon was first used.
 
 <br>
 
-### Aug 2023 (Modern)
+### Aug 2023
 ![Stormilla 2023](https://github.com/StormDragon77/Stormilla/blob/main/Files/images/imagehost/pack.png/StormillaAug2023.png)
+
+<br>
+
+### Jan 2025 (Modern)
+![Stormilla 2023](https://github.com/StormDragon77/Stormilla/blob/main/Files/images/imagehost/pack.png/StormillaJan2025.png)
