@@ -6,7 +6,7 @@ You can suggest or report a bug by opening a new issue in [Issues](https://githu
 
 ### Stormilla Supports
 
-- Minecraft 1.20.2+
+- Minecraft 1.20.2+ (However testing isn't done in all older versions the pack supports, report any issues you find!)
 - Fabric Mods: Entity Texture Features, Entity Model Features, Continuity, CITResewn, Animatica, Polytone, Respackopts, NotEnoughAnimations. [Stormilla Modded](https://modrinth.com/resourcepack/stormodda) by Bruhnanza provides extended support
 - OptiFine (No longer testing in OptiFine so if something breaks for some reason, report it)
 
