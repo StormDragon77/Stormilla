@@ -9,8 +9,8 @@ StormDragon77 | https://www.linktr.ee/stormdragon77
 
 Texture Artists and Modelers:
 StormDragon77 | https://www.linktr.ee/stormdragon77
-Napstatoast | https://www.planetminecraft.com/member/napstatoast/
-	Contributions are listed in main_contributions.txt since it is very long
+Septyna | https://www.planetminecraft.com/member/septyna/
+	Contributions are listed in credits-septyna.txt since it is very long
 
 -----------------------------------------------------------
 
@@ -22,3 +22,15 @@ TrailerOctopus | https://www.planetminecraft.com/member/traileroctopus/
 	Emissive Textures
 	Leather Overalls (modified)
 	XP Bottle (modified)
+Team UNNAMED | https://www.planetminecraft.com/member/team_unnamed/
+	Blaze and Creeper help
+	Zombie, Husk, and Ghast tweaks
+	Miscellaneous tweaks and fixes
+Bruhnanza | https://modrinth.com/user/Bruhnanza
+	Fabric GUI arrows
+	Fixing and tweaking item-like trident
+Stridey | https://www.planetminecraft.com/member/stridey/
+	Item-like trident (modified)
+MR_CHOO | https://mrchoo.my.canva.site/
+	Torch block flame animation and model (not item texture)
+	New redstone torch backport
