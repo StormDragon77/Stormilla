@@ -1,21 +1,30 @@
 Stormilla (Bedrock Edition) Credits:
 
+-----------------------------------------------------------
 
-Pack Developer:
-StormDragon77 | https://www.planetminecraft.com/member/stormdragon77
+Creator:
+StormDragon77 | https://www.linktr.ee/stormdragon77
 
 -----------------------------------------------------------
 
-Contributor:
-Napstatoast | https://www.planetminecraft.com/member/napstatoast/
+Texture Artists and Modelers:
+StormDragon77 | https://www.linktr.ee/stormdragon77
+Septyna | https://www.planetminecraft.com/member/septyna/
+	Contributions are listed in main_contributions.txt since it is very long
 
 -----------------------------------------------------------
 
-Provided Resources:
+Other Contributions:
 Vanilla Tweaks | https://vanillatweaks.net/
 	Villager Cloak Fix
 TrailerOctopus | https://www.planetminecraft.com/member/traileroctopus/
 	Leather Overalls (modified)
 	XP Bottle (modified)
-
------------------------------------------------------------
+Team UNNAMED | https://www.planetminecraft.com/member/team_unnamed/
+	Blaze and Creeper help
+	Zombie, Husk, and Ghast tweaks
+	Miscellaneous tweaks and fixes
+Bruhnanza | https://modrinth.com/user/Bruhnanza
+	Fixing and tweaking item-like trident
+Stridey | https://www.planetminecraft.com/member/stridey/
+	Item-like trident (modified)
