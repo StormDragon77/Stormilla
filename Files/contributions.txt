@@ -163,5 +163,9 @@ Septyna's Contributions:
   small chest minecart model fix
   melon variant base
   iron palette consistency
-  rounder sun and moon
   bucket and bowl items help
+  cobblestone variant base
+  lantern item
+  some cit painting textures
+  lightning rod item
+  debug stick
