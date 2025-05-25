@@ -99,3 +99,23 @@ All archived [here](https://www.mediafire.com/folder/kmjyxf2rvlv8o/Stormilla)
 	Some Emissives
 	Leather Leggings (modified)
 	XP Bottle (moddified)
+ 
+[Team UNNAMED](https://www.planetminecraft.com/member/team_unnamed/)
+
+	Blaze and Creeper help
+	Zombie, Husk, and Ghast tweaks
+	Miscellaneous tweaks and fixes
+ 
+[Bruhnanza](https://modrinth.com/user/Bruhnanza)
+
+	Fabric GUI arrows
+	Fixing and tweaking item-like trident
+
+[Stridey](https://www.planetminecraft.com/member/stridey/)
+
+	Item-like trident (modified)
+
+[MR_CHOO](https://mrchoo.my.canva.site/)
+
+	Torch block flame animation and model (not item texture)
+	New redstone torch backport
