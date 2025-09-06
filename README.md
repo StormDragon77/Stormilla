@@ -13,6 +13,7 @@ You can suggest or report a bug by opening a new issue in [Issues](https://githu
 ### Stormilla does not Support
 
 - Minecraft 1.20.1- and snapshots
+- Older versions of Fabric mods (so if you encounter an issue, make sure you are using the latest version of it)
 - Programmer art
 - Different resolutions like 32x
 - Fresh Animations (yet)
